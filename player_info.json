@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Michael van Lingen",
+    "teamName": "Namibia",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Left arm Medium, Slow Left arm Orthodox",
+    "playingRole": "Bowling Allrounder"
+  },
+  {
+    "name": "Divan la Cock",
+    "teamName": "Namibia",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Legbreak",
+    "playingRole": "Opening Batter"
+  },
+  {
+    "name": "Jan Nicol Loftie-Eaton",
+    "teamName": "Namibia",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Right arm Medium, Legbreak",
+    "playingRole": "Batter"
+  },
+  {
+    "name": "Stephan Baard",
+    "teamName": "Namibia",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Batter"
+  },
+  {
+    "name": "Gerhard Erasmus(c)",
+    "teamName": "Namibia",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Offbreak",
+    "playingRole": "Allrounder"
+  },
+  {
+    "name": "Jan Frylinck",
+    "teamName": "Namibia",
+    "battingStyle": "Left hand Bat",
+    "bowlingStyle": "Left arm Fast medium",
+    "playingRole": "Allrounder"
+  },
+  {
+    "name": "David Wiese",
+    "teamName": "Namibia",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Right arm Medium fast",
+    "playingRole": "Allrounder"
+  },
+  {
+    "name": "JJ Smit",
+    "teamName": "Namibia",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Left arm Medium fast",
+    "playingRole": "Bowling Allrounder"
+  },
+  {
+    "name": "Pathum Nissanka",
+    "teamName": "Sri Lanka",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "",
+    "playingRole": "Top order Batter"
+  },
+  {
+    "name": "Kusal Mendis†",
+    "teamName": "Sri Lanka",
+    "battingStyle": "Right hand Bat",
+    "bowlingStyle": "Legbreak",
+    "playingRole": "Wicketkeeper Batter"
+  }
+]
